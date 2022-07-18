@@ -9,12 +9,12 @@ Ezra Kivutha
 
 PROJECT OBJECTIVE
 
-This project is focused in digitizing african based content and art to promotion of african culture and creation of job opportunities to african creator
+Promotion of african culture and creation of job opportunities to african Art and content creators .
 
 
 PROJECT FREAMWORK
 
-This project is developed with a react frontend and solidity, truffle is used as the development framework; it can be deployed in ethereum, BSC or any ethereum blockchain compatible
+This project is developed with a react frontend and solidity, truffle is used as the development framework; it can be deployed in ethereum, BSC or any ethereum blockchain compatible.
 
 #NFT MARKET 
 
