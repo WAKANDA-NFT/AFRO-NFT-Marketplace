@@ -14,7 +14,7 @@ This  project is focused in digitizing african based content  and art to  promot
 
 
 
-#WAKANDA NFT MARKET 
+#NFT MARKET 
 
 
 ## Installation
