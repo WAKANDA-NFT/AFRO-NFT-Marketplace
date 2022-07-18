@@ -1,6 +1,6 @@
 TEAM
 
-Michael Mulika @mmulika
+Michael Mulika 
 
 Timothy Agevi
 
@@ -9,12 +9,12 @@ Ezra Kivutha
 
 PROJECT OBJECTIVE
 
-This  project is focused in digitizing african based content  and art to  promotion of african culture and creation of job optunities to african creators 
+This project is focused in digitizing african based content and art to promotion of african culture and creation of job opportunities to african creator
 
 
 PROJECT FREAMWORK
 
-This project is developed with a react frontend and solility , truffle was used as the development framework, it can be deployed in ethereum ,BSC or any ethereum blockchain compatible
+This project is developed with a react frontend and solidity, truffle is used as the development framework; it can be deployed in ethereum, BSC or any ethereum blockchain compatible
 
 #NFT MARKET 
 
