@@ -1,6 +1,9 @@
-Team
+TEAM
+
 Michael Mulika @mmulika
+
 Timothy Agevi
+
 Ezra Kivutha
 
 This  project is focused in digitizing african based content  and art to  promotion of african culture and creation of job optunities to african creators 
